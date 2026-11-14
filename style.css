@@ -287,3 +287,26 @@ footer {
     transform: translateY(-5px); 
     border-color: #38bdf8; 
 }
+
+.lang-btn { 
+    margin-left: 30px; 
+    background: none; 
+    border: 1px solid #38bdf8; 
+    color: #38bdf8; 
+    border-radius: 8px; 
+    padding: 4px 12px; 
+    font-weight: 600; 
+    cursor: pointer; 
+}
+
+.lang-btn:hover { 
+    background: #38bdf8; 
+    color: #0f172a; 
+}
+
+@media (max-width: 768px) {
+  .lang-btn { 
+    margin: 10px 0 0; 
+    align-self: flex-start; 
+    }
+}
