@@ -1,6 +1,6 @@
 # Portfolio – Tarik Imamović
 
-Osobna web stranica (portfolio) izrađena u sklopu projektnog zadatka iz predmeta Softversko inženjerstvo.
+Osobna web stranica (portfolio) izrađena u sklopu projektnog zadatka iz predmeta Softverski inžinjering.
 
 ## Sadržaj stranice
 - Hero sekcija s dugmetom za kontakt
@@ -11,7 +11,7 @@ Osobna web stranica (portfolio) izrađena u sklopu projektnog zadatka iz predmet
 - Responzivan dizajn (računar i mobitel)
 
 ## Tehnologije
-HTML5, CSS3, JavaScript, Git i GitHub
+HTML5, CSS, JavaScript, Git i GitHub
 
 ## Struktura projekta
 - `index.html` – struktura stranice
