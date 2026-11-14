@@ -277,3 +277,13 @@ footer {
     grid-template-columns: 1fr; 
     }
 }
+
+.card, .skill { 
+    transition: transform 0.2s, 
+    border-color 0.2s; 
+}
+
+.card:hover, .skill:hover { 
+    transform: translateY(-5px); 
+    border-color: #38bdf8; 
+}
